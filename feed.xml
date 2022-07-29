@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>BLOG</title>
+    <link href="https://example.com/feed.xml" rel="self" />
+    <link href="https://example.com" />
+    <updated>2022-07-29T19:59:42+06:00</updated>
+    <author>
+        <name>SAMI</name>
+    </author>
+    <id>https://example.com</id>
+
+    <entry>
+        <title>NEW POST TITLE</title>
+        <author>
+            <name>SAMI</name>
+        </author>
+        <link href="https://example.com/new-post-title.html"/>
+        <id>https://example.com/new-post-title.html</id>
+
+        <updated>2022-07-29T19:59:42+06:00</updated>
+            <summary>
+                <![CDATA[
+                    NEW POST CONTENT.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>NEW POST CONTENT.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

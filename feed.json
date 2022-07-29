@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BLOG",
+    "description": "",
+    "home_page_url": "https://danielsacramanto.github.io/v12365dsf",
+    "feed_url": "https://danielsacramanto.github.io/v12365dsf/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SAMI"
+    },
+    "items": [
+        {
+            "id": "https://danielsacramanto.github.io/v12365dsf/new-post-title.html",
+            "url": "https://danielsacramanto.github.io/v12365dsf/new-post-title.html",
+            "title": "NEW POST TITLE",
+            "summary": "NEW POST CONTENT.",
+            "content_html": "<p>NEW POST CONTENT.</p>",
+            "author": {
+                "name": "SAMI"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-29T19:59:42+06:00",
+            "date_modified": "2022-07-29T19:59:42+06:00"
+        }
+    ]
+}

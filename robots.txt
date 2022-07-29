@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://danielsacramanto.github.io/v12365dsf/sitemap.xml
